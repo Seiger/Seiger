@@ -16,7 +16,8 @@ I design and build open-source CMS infrastructure, backend systems, developer to
   </a>
 </p>
 
-## What I Work On
+<details>
+<summary><strong>What I work on</strong></summary>
 
 - Evolution CMS core development, architecture and ecosystem tooling.
 - PHP package design, Laravel-based internals, backend services and admin-panel modules.
@@ -24,7 +25,10 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 - AI-assisted developer workflows, documentation automation and CMS-integrated AI tooling.
 - Production systems for business, education, research and engineering domains.
 
-## Evolution CMS Ecosystem
+</details>
+
+<details>
+<summary><strong>Evolution CMS ecosystem</strong></summary>
 
 ### Core platform
 
@@ -34,8 +38,7 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 - [evo-ui](https://github.com/evolution-cms/evo-ui) - UI foundation for Evolution CMS.
 - [evo-ai](https://github.com/evolution-cms/evo-ai) - AI SDK integration for Evolution CMS and Laravel-based workflows.
 
-<details>
-<summary><strong>Packages I build and maintain</strong></summary>
+### Packages I build and maintain
 
 - [sCommerce](https://github.com/Seiger/sCommerce) - e-commerce toolkit for Evolution CMS.
 - [sSeo](https://github.com/Seiger/sSeo) - SEO metadata and search optimization tools.
