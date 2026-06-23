@@ -1,29 +1,50 @@
 # Serhii Korneliuk
 
-Senior Lecturer at O.M. Beketov National University of Urban Economy in Kharkiv, CEO of [Seiger IT](https://seigerit.com/), CTO and core developer of [Evolution CMS](https://evo.im/).
+**CTO and core developer of [Evolution CMS](https://evo.im/). CEO of [Seiger IT](https://seigerit.com/).**
 
-I work at the intersection of practical software engineering, open-source CMS development, energy systems, education, and applied AI tooling.
+I design and build open-source CMS infrastructure, backend systems, developer tools and production-ready packages for Evolution CMS. My work focuses on turning Evolution CMS into a practical platform for e-commerce, multilingual websites, APIs, background jobs, SEO, media management, AI-assisted workflows and real business systems.
 
-## Focus
+## What I Work On
 
-- PHP, Laravel ecosystem, Evolution CMS, backend architecture and CMS modules.
-- E-commerce, multilingual content, SEO, media, API and automation tools for Evolution CMS.
-- Power supply systems, renewable energy, Smart Grid, microgrids, wind and solar photovoltaic systems.
-- AI assistants, LLM workflows and digital tools for software development, documentation, education and engineering research.
+- Evolution CMS core development, architecture and ecosystem tooling.
+- PHP package design, Laravel-based internals, backend services and admin-panel modules.
+- E-commerce, content management, multilingual websites, SEO, media, mail, APIs and automation.
+- AI-assisted developer workflows, documentation automation and CMS-integrated AI tooling.
+- Production systems for business, education, research and engineering domains.
 
-## Open Source
+## Evolution CMS Ecosystem
 
-I build and maintain packages for Evolution CMS and related web systems:
+### Core platform
 
-- [sCommerce](https://github.com/Seiger/sCommerce) - e-commerce tools for Evolution CMS.
+- [Evolution CMS](https://github.com/evolution-cms/evolution) - open-source PHP CMS core.
+- [Evolution CMS Installer](https://github.com/evolution-cms/installer) - standalone installer for developers.
+- [Evolution Docs](https://github.com/evolution-cms/docs) - documentation for Evolution CMS.
+- [evo-ui](https://github.com/evolution-cms/evo-ui) - UI foundation for Evolution CMS.
+- [evo-ai](https://github.com/evolution-cms/evo-ai) - AI SDK integration for Evolution CMS and Laravel-based workflows.
+
+### Packages I build and maintain
+
+- [sCommerce](https://github.com/Seiger/sCommerce) - e-commerce toolkit for Evolution CMS.
+- [sSeo](https://github.com/Seiger/sSeo) - SEO metadata and search optimization tools.
+- [sTask](https://github.com/Seiger/sTask) - asynchronous tasks and background jobs.
 - [sArticles](https://github.com/Seiger/sArticles) - articles, blog and news management.
 - [sLang](https://github.com/Seiger/sLang) - multilingual content management.
-- [sGallery](https://github.com/Seiger/sGallery) - image and YouTube media management.
+- [sMultisite](https://github.com/Seiger/sMultisite) - multisite management tools.
 - [sApi](https://github.com/Seiger/sApi) - lightweight API toolkit.
+- [sGallery](https://github.com/Seiger/sGallery) - image and YouTube media management.
+- [sSettings](https://github.com/Seiger/sSettings) - centralized settings management.
+- [sMailer](https://github.com/Seiger/sMailer) - email sending service with templates and transports.
+- [sOffers](https://github.com/Seiger/sOffers) - records and offers management module.
 
-## Academic Work
+## Engineering Direction
 
-My academic interests include power supply systems, renewable energy, Smart Grid, microgrids, active power filters, relay protection, microcontrollers, AI-assisted engineering workflows, and digital tools for education and research.
+I care about practical architecture: packages that install cleanly, survive real production workloads, document their behavior, and stay friendly for developers who maintain client projects over years.
+
+Current interests include AI-assisted coding, automated documentation, CMS-native AI tools, background processing, API boundaries, multilingual content infrastructure and maintainable open-source package ecosystems.
+
+## Academic and Engineering Research
+
+Alongside software engineering, I am a Senior Lecturer at O.M. Beketov National University of Urban Economy in Kharkiv. My academic interests include power supply systems, renewable energy, Smart Grid, microgrids, active power filters, microcontrollers and AI-assisted engineering workflows.
 
 - [KNAME wiki profile](https://wiki.kname.edu.ua/index.php?title=%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D1%8E%D0%BA_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
 - [ORCID](https://orcid.org/0000-0001-9885-1724)
