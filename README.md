@@ -4,6 +4,35 @@
 
 I design and build open-source CMS infrastructure, backend systems, developer tools and production-ready packages for Evolution CMS. My work focuses on turning Evolution CMS into a practical platform for e-commerce, multilingual websites, APIs, background jobs, SEO, media management, AI-assisted workflows and real business systems.
 
+## GitHub Snapshot
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
+    <img src="https://github-profile-trophy.vercel.app/?username=Seiger&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Seiger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Serhii Korneliuk's GitHub stats" />
+  </a>
+  <a href="https://github.com/Seiger/Seiger">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiger&layout=compact&theme=algolia&langs_count=8&card_width=330" alt="Most used languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seiger&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="GitHub profile details" />
+  </a>
+</p>
+
 ## What I Work On
 
 - Evolution CMS core development, architecture and ecosystem tooling.
