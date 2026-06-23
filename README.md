@@ -6,13 +6,13 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seiger&theme=react-dark&hide_border=true&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF" alt="Serhii Korneliuk's GitHub activity graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="Serhii Korneliuk's GitHub profile details" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="Serhii Korneliuk's GitHub profile details" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seiger&theme=react-dark&hide_border=true&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF" alt="Serhii Korneliuk's GitHub activity graph" />
   </a>
 </p>
 
@@ -34,7 +34,8 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 - [evo-ui](https://github.com/evolution-cms/evo-ui) - UI foundation for Evolution CMS.
 - [evo-ai](https://github.com/evolution-cms/evo-ai) - AI SDK integration for Evolution CMS and Laravel-based workflows.
 
-### Packages I build and maintain
+<details>
+<summary><strong>Packages I build and maintain</strong></summary>
 
 - [sCommerce](https://github.com/Seiger/sCommerce) - e-commerce toolkit for Evolution CMS.
 - [sSeo](https://github.com/Seiger/sSeo) - SEO metadata and search optimization tools.
@@ -48,13 +49,19 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 - [sMailer](https://github.com/Seiger/sMailer) - email sending service with templates and transports.
 - [sOffers](https://github.com/Seiger/sOffers) - records and offers management module.
 
-## Engineering Direction
+</details>
+
+<details>
+<summary><strong>Engineering direction</strong></summary>
 
 I care about practical architecture: packages that install cleanly, survive real production workloads, document their behavior, and stay friendly for developers who maintain client projects over years.
 
 Current interests include AI-assisted coding, automated documentation, CMS-native AI tools, background processing, API boundaries, multilingual content infrastructure and maintainable open-source package ecosystems.
 
-## Academic and Engineering Research
+</details>
+
+<details>
+<summary><strong>Academic and engineering research</strong></summary>
 
 Alongside software engineering, I am a Senior Lecturer at O.M. Beketov National University of Urban Economy in Kharkiv. My academic interests include power supply systems, renewable energy, Smart Grid, microgrids, active power filters, microcontrollers and AI-assisted engineering workflows.
 
@@ -63,8 +70,13 @@ Alongside software engineering, I am a Senior Lecturer at O.M. Beketov National 
 - [Google Scholar](https://scholar.google.com/citations?hl=uk&user=KWXpuvYAAAAJ&view_op=list_works&sortby=pubdate)
 - [LinkedIn](https://www.linkedin.com/in/seigerit/)
 
-## Channels
+</details>
+
+<details>
+<summary><strong>Channels</strong></summary>
 
 - [YouTube: Seiger IT](https://www.youtube.com/@SeigerIT)
 - [YouTube: Aerodinama](https://www.youtube.com/@Aerodinama)
 - [Evolution CMS Telegram](https://t.me/evolutioncms)
+
+</details>
