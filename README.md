@@ -8,12 +8,6 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-profile-trophy.vercel.app/?username=Seiger&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Seiger/Seiger">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=Seiger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Serhii Korneliuk's GitHub stats" />
   </a>
   <a href="https://github.com/Seiger/Seiger">
@@ -29,7 +23,22 @@ I design and build open-source CMS infrastructure, backend systems, developer to
 
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seiger&theme=react-dark&hide_border=true&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF" alt="GitHub activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="GitHub profile details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seiger/Seiger">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seiger&theme=github_dark" alt="GitHub summary stats" />
+  </a>
+  <a href="https://github.com/Seiger/Seiger">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seiger&theme=github_dark&utcOffset=3" alt="GitHub productive time" />
   </a>
 </p>
 
