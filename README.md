@@ -1,6 +1,6 @@
 # Serhii Korneliuk
 
-**CTO and core developer of [Evolution CMS](https://evo.im/). CEO of [Seiger IT](https://seigerit.com/).**
+**CEO of [Seiger IT](https://seigerit.com/). CTO and core developer of [Evolution CMS](https://evo.im/).**
 
 I design and build open-source CMS infrastructure, backend systems, developer tools and production-ready packages for Evolution CMS. My work focuses on turning Evolution CMS into a practical platform for e-commerce, multilingual websites, APIs, background jobs, SEO, media management, AI-assisted workflows and real business systems.
 
