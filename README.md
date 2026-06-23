@@ -4,41 +4,15 @@
 
 I design and build open-source CMS infrastructure, backend systems, developer tools and production-ready packages for Evolution CMS. My work focuses on turning Evolution CMS into a practical platform for e-commerce, multilingual websites, APIs, background jobs, SEO, media management, AI-assisted workflows and real business systems.
 
-## GitHub Snapshot
-
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Seiger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Serhii Korneliuk's GitHub stats" />
-  </a>
-  <a href="https://github.com/Seiger/Seiger">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiger&layout=compact&theme=algolia&langs_count=8&card_width=330" alt="Most used languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seiger&theme=react-dark&hide_border=true&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF" alt="Serhii Korneliuk's GitHub activity graph" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seiger&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seiger&theme=react-dark&hide_border=true&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF" alt="GitHub activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Seiger/Seiger">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="GitHub profile details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Seiger/Seiger">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seiger&theme=github_dark" alt="GitHub summary stats" />
-  </a>
-  <a href="https://github.com/Seiger/Seiger">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seiger&theme=github_dark&utcOffset=3" alt="GitHub productive time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiger&theme=github_dark" alt="Serhii Korneliuk's GitHub profile details" />
   </a>
 </p>
 
